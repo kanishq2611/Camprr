@@ -1,3 +1,3 @@
 # Traveller
 
-### Refactored by Sankalp Gupta
+### Refactored by Kanishq Agrawal
